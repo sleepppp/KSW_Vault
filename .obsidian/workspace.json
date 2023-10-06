@@ -11,11 +11,9 @@
             "id": "ef1f167cadc4003b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "make-folder-view",
               "state": {
-                "file": "Test/Mine.md",
-                "mode": "source",
-                "source": false
+                "contextPath": "Learn/서류 및 면접"
               }
             }
           }
@@ -94,7 +92,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Test/Mine.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +108,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Test/Mine.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,9 +129,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Test/Mine.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -157,19 +151,39 @@
   },
   "active": "ef1f167cadc4003b",
   "lastOpenFiles": [
-    "Test/Test Node Child.md",
-    "Test/Mine.md",
-    "Test/Test Note.md",
-    "Untitled.canvas",
+    "Learn/서류 및 면접/서류 및 면접.md",
+    "Learn/서류 및 면접",
+    "Learn/C++/이론/0. 목차.md",
+    "Learn/C++/이상한짓/0. 목차.md",
+    "Learn/C++/More/0. 목차.md",
+    "Learn/C++/Basic/0. 목차.md",
+    "Learn/C++/자료구조/0. 목차.md",
+    "Learn/C++/이상한짓",
+    "Learn/C++/이론/Etc.md",
+    "Learn/C++/이론/이론.md",
+    "Learn/C++/이론",
+    "Learn/C++/자료구조/자료구조.md",
+    "Learn/C++/자료구조",
     "README.md",
+    "Learn/C++/More/More.md",
+    "Untitled.canvas",
+    "Learn/무제 파일.md",
+    "Learn/C++/Basic/개요.md",
+    "Learn/C++/More",
+    "Learn/C++/Basic/Basic.md",
+    "Learn/C++/Basic",
+    "Learn/C++/C++.md",
+    "Learn/C++",
+    "Learn/Learn.md",
+    "Learn",
+    "Test/Mine.md",
+    "Test/Test Node Child.md",
+    "Test/Test Note.md",
     "Test/Test.md",
     "Context/spacesLastSync.log",
     "Context",
     "Untitled 1.canvas",
     "Untitled 2.canvas",
-    "Test",
-    "새 텍스트 문서.txt",
-    "KSW_Vault/README.md",
-    "KSW_Vault"
+    "KSW_Vault/README.md"
   ]
 }

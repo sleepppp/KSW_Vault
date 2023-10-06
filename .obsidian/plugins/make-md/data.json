@@ -38,11 +38,12 @@
     "KSW_Vault": [
       "Test",
       "Test",
-      "Test",
-      "Test",
-      "Test",
-      "Test",
-      "Test"
+      "Learn/C++/Etc",
+      "Learn/C++/Etc",
+      "Learn/C++/Etc",
+      "Learn/C++/Etc",
+      "Learn",
+      "Learn"
     ]
   },
   "expandedSpaces": [
@@ -80,7 +81,7 @@
   "spacesSyncTimeoutSeconds": 10,
   "spacesAutoBackup": true,
   "spacesAutoBackupInterval": 10,
-  "spacesAutoBackupLast": 1696592786287,
+  "spacesAutoBackupLast": 1696604599859,
   "spacesUseAlias": false,
   "precreateVaultSpace": true,
   "fmKeyAlias": "aliases",
