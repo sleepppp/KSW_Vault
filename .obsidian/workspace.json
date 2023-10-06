@@ -11,11 +11,9 @@
             "id": "ef1f167cadc4003b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "make-folder-view",
               "state": {
-                "file": "Test/Mine.md",
-                "mode": "source",
-                "source": false
+                "contextPath": "Test"
               }
             }
           }
@@ -94,7 +92,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Test/Mine.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +108,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Test/Mine.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,9 +129,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Test/Mine.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -157,11 +151,11 @@
   },
   "active": "ef1f167cadc4003b",
   "lastOpenFiles": [
-    "Test/Test Node Child.md",
     "Test/Test Note.md",
+    "Test/Test Node Child.md",
+    "Test/Mine.md",
     "Test/Test.md",
     "Untitled.canvas",
-    "Test/Mine.md",
     "Context/spacesLastSync.log",
     "Context",
     "README.md",
