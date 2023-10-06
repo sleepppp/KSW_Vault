@@ -11,15 +11,8 @@
             "id": "ef1f167cadc4003b",
             "type": "leaf",
             "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Untitled.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": -186,
-                  "zoom": 0
-                }
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -88,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Untitled.canvas"
-              }
+              "state": {}
             }
           }
         ]
@@ -149,15 +138,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "562bff5397bcb5dd",
+  "active": "ef1f167cadc4003b",
   "lastOpenFiles": [
-    "Untitled 1.canvas",
-    "Untitled 2.canvas",
-    "Untitled.canvas",
+    "README.md",
     "Test/Test Node Child.md",
     "Test/Test Note.md",
     "Test/Mine.md",
-    "README.md",
+    "Untitled.canvas",
+    "Untitled 1.canvas",
+    "Untitled 2.canvas",
     "Test",
     "새 텍스트 문서.txt",
     "KSW_Vault/README.md",
