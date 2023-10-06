@@ -11,8 +11,12 @@
             "id": "ef1f167cadc4003b",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Test/Mine.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -90,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Test/Mine.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Test/Mine.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Test/Mine.md"
+              }
             }
           }
         ]
@@ -149,13 +157,14 @@
   },
   "active": "ef1f167cadc4003b",
   "lastOpenFiles": [
+    "Test/Test Node Child.md",
+    "Test/Test Note.md",
+    "Test/Test.md",
+    "Untitled.canvas",
     "Test/Mine.md",
     "Context/spacesLastSync.log",
     "Context",
-    "Test/Test Node Child.md",
-    "Test/Test Note.md",
     "README.md",
-    "Untitled.canvas",
     "Untitled 1.canvas",
     "Untitled 2.canvas",
     "Test",

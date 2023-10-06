@@ -36,6 +36,7 @@
   "deleteFileOption": "trash",
   "expandedFolders": {
     "KSW_Vault": [
+      "Test",
       "Test"
     ]
   },
@@ -73,7 +74,7 @@
   "spacesSyncTimeoutSeconds": 10,
   "spacesAutoBackup": true,
   "spacesAutoBackupInterval": 10,
-  "spacesAutoBackupLast": 1696586235886,
+  "spacesAutoBackupLast": 1696586566029,
   "spacesUseAlias": false,
   "precreateVaultSpace": true,
   "fmKeyAlias": "aliases",
