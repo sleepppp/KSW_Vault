@@ -60,8 +60,17 @@
               "type": "bookmarks",
               "state": {}
             }
+          },
+          {
+            "id": "4b1652a3617d03e0",
+            "type": "leaf",
+            "state": {
+              "type": "mk-file-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -140,10 +149,12 @@
   },
   "active": "ef1f167cadc4003b",
   "lastOpenFiles": [
-    "README.md",
+    "Test/Mine.md",
+    "Context/spacesLastSync.log",
+    "Context",
     "Test/Test Node Child.md",
     "Test/Test Note.md",
-    "Test/Mine.md",
+    "README.md",
     "Untitled.canvas",
     "Untitled 1.canvas",
     "Untitled 2.canvas",
