@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Untitled/Test Note.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Untitled/Test Note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Untitled/Test Note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Untitled/Test Note.md"
               }
             }
           }
@@ -146,11 +146,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "562bff5397bcb5dd",
+  "active": "ef1f167cadc4003b",
   "lastOpenFiles": [
+    "Untitled/Test Note.md",
+    "README.md",
     "Untitled",
     "새 텍스트 문서.txt",
-    "README.md",
     "KSW_Vault/README.md",
     "KSW_Vault"
   ]
