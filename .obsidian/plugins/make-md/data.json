@@ -42,16 +42,14 @@
       "Learn/C++/Etc",
       "Learn/C++/Etc",
       "Learn/C++/Etc",
-      "Learn",
-      "Learn/서류 및 면접",
-      "Learn/C++"
+      "Unreal"
     ]
   },
   "expandedSpaces": [
     "/",
     null,
-    null,
-    "KSW_Vault"
+    "KSW_Vault",
+    null
   ],
   "expandFolderOnClick": true,
   "openFolders": [],
@@ -82,7 +80,7 @@
   "spacesSyncTimeoutSeconds": 10,
   "spacesAutoBackup": true,
   "spacesAutoBackupInterval": 10,
-  "spacesAutoBackupLast": 1696912550433,
+  "spacesAutoBackupLast": 1696915528918,
   "spacesUseAlias": false,
   "precreateVaultSpace": true,
   "fmKeyAlias": "aliases",
