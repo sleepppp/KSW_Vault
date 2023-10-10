@@ -11,9 +11,11 @@
             "id": "ef1f167cadc4003b",
             "type": "leaf",
             "state": {
-              "type": "make-folder-view",
+              "type": "markdown",
               "state": {
-                "contextPath": "Learn/서류 및 면접"
+                "file": "Learn/C++/More/0. 목차.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -92,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Learn/C++/More/0. 목차.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Learn/C++/More/0. 목차.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Learn/C++/More/0. 목차.md"
+              }
             }
           }
         ]
@@ -151,12 +157,13 @@
   },
   "active": "ef1f167cadc4003b",
   "lastOpenFiles": [
+    "README.md",
+    "Learn/C++/Basic/0. 목차.md",
     "Learn/서류 및 면접/서류 및 면접.md",
     "Learn/서류 및 면접",
     "Learn/C++/이론/0. 목차.md",
     "Learn/C++/이상한짓/0. 목차.md",
     "Learn/C++/More/0. 목차.md",
-    "Learn/C++/Basic/0. 목차.md",
     "Learn/C++/자료구조/0. 목차.md",
     "Learn/C++/이상한짓",
     "Learn/C++/이론/Etc.md",
@@ -164,7 +171,6 @@
     "Learn/C++/이론",
     "Learn/C++/자료구조/자료구조.md",
     "Learn/C++/자료구조",
-    "README.md",
     "Learn/C++/More/More.md",
     "Untitled.canvas",
     "Learn/무제 파일.md",
